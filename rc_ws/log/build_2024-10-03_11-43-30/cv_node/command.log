@@ -1,0 +1,2 @@
+Invoking command in '/home/prachit/School/VIP3602/rc_ws/build/cv_node': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/prachit/School/VIP3602/rc_ws/src/cv_node -DCMAKE_INSTALL_PREFIX=/home/prachit/School/VIP3602/rc_ws/install/cv_node
+Invoked command in '/home/prachit/School/VIP3602/rc_ws/build/cv_node' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/prachit/School/VIP3602/rc_ws/src/cv_node -DCMAKE_INSTALL_PREFIX=/home/prachit/School/VIP3602/rc_ws/install/cv_node
